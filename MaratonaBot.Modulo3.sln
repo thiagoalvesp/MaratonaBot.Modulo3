@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaratonaBot.Modulo3", "MaratonaBot.Modulo3\MaratonaBot.Modulo3.csproj", "{945673DC-E836-466E-99FE-31BF9ECE1180}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{945673DC-E836-466E-99FE-31BF9ECE1180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{945673DC-E836-466E-99FE-31BF9ECE1180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{945673DC-E836-466E-99FE-31BF9ECE1180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{945673DC-E836-466E-99FE-31BF9ECE1180}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A4EA028-8163-4CB7-8FE9-A700EBF7DFFE}
+	EndGlobalSection
+EndGlobal
